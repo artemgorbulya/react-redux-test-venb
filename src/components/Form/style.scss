@@ -1,0 +1,24 @@
+.filter-form {
+  margin-bottom: 20px;
+  & > label {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.filter-input {
+  border: 1px solid rgb(65, 65, 65);
+   border-radius: 5px;
+   margin: 3px;
+   height: 20px;
+   padding: 5px;
+   font-size: 10pt;
+}
+
+.filter-sex {
+  display: flex;
+  justify-content: space-between;
+}
+
+
